@@ -1,23 +1,18 @@
 # 1회차 스터디
-
-2018.12.29(토)
+2018.12.29(토) 09:00
 
 오아리 진행
-
 
 
 ## 문제
 
 https://www.hackerrank.com/challenges/is-binary-search-tree/problem?h_r=internal-search
-
 https://leetcode.com/problems/validate-binary-search-tree/
 
 
 
 ## 원숭이들의 생각
-
 ### 경원님
-
 ```javascript
 function solution(node) {
     const result = left(node)
@@ -104,23 +99,15 @@ class Solution {
 }
 ```
 
-\* 리프노드일 때, 대비가 안되있음
-
-\* 루트노드가 null 일때 대비가 안되있음
-
-\* 각 노드가 BST를 만족하더라도, 전체 node가 BST 라는 것을 보장할 수 없음
-
-\* 스터디 중에 느낀점
-
-​    \* 설명을 할 때, 중심되는 함수부터 설명을 하자.
-
-​    \* main 함수 내에서 변수와 함수 정의를 먼저 하고 설명하자
-
-​    \* 화이트 보드는 제한적이므로, 공간 활용을 잘 하자
-
-​    \* testSet 을 잘 정의하자
-
-​    \* 테스트를 할때 여분의 공간에 콜스텍을 적으면서 하자
+* 리프노드일 때, 대비가 안되있음
+* 루트노드가 null 일때 대비가 안되있음
+* 각 노드가 BST를 만족하더라도, 전체 node가 BST 라는 것을 보장할 수 없음
+* 스터디 중에 느낀점
+    * 설명을 할 때, 중심되는 함수부터 설명을 하자.
+    * main 함수 내에서 변수와 함수 정의를 먼저 하고 설명하자
+    * 화이트 보드는 제한적이므로, 공간 활용을 잘 하자
+    * testSet 을 잘 정의하자
+    * 테스트를 할때 여분의 공간에 콜스텍을 적으면서 하자
 
 
 
@@ -172,17 +159,12 @@ public class BST_Validate {
 }		
 ```
 
-\* 초기 10분내의 위의 솔루션을 생각해 내지 못함
-
-  \- 문제는 항상 핵심을 생각하고, 쉽게 생각하자 !
-
-\* 문제를 풀기전에 조건(conditions)을 명확히 파악할것
-
-\* complexity 계산방법을 까먹었다. 다시 공부하자.
-
-\* 리팩토링 할 중복로직이 안나오도록 연습하자.
-
-  \- but 모든코드를 극단적으로 줄일려고 하지는 말자
+* 초기 10분내의 위의 솔루션을 생각해 내지 못함
+    - 문제는 항상 핵심을 생각하고, 쉽게 생각하자 !
+* 문제를 풀기전에 조건(conditions)을 명확히 파악할것
+* complexity 계산방법을 까먹었다. 다시 공부하자.
+* 리팩토링 할 중복로직이 안나오도록 연습하자.
+    - but 모든코드를 극단적으로 줄일려고 하지는 말자
 
 
 
@@ -232,13 +214,8 @@ boolean checkBST(Node node, long min, long max) {
         checkBST(node.left, min, Math.min(max, data)) && checkBST(node.right, Math.max(min, data), max);
 }
 ```
-
 트리 내 노드 갯수가 N 개라 할 때,
 
-
-
 시간 복잡도: O(N)
-
-
 
 공간 복잡도: O(log N)
