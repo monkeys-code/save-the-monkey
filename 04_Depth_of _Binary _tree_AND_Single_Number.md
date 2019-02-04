@@ -17,8 +17,8 @@
 * single number in array 문제를 풀 때에는 전에 풀어봤던 거라 XOR로 접근하는 방식을 소개했으나, 너무 빠른 최적의 솔루션 전개에 자신감은 있어보이나 이걸 풀어본건지.. 뭔지.. 하는 마음에 다른 문제를 물어봄. 로직 전개에 있어서 소통이 부족했다.
 * single number 에서 수식으로 로직을 도출하는 방식이 색달랐다. 경원님 짱.
 * 생일이 2주 지났는데에도 축하받았다. 여러분 짱.
-![aria_01](./images/04/aria_01.jpg)
-![aria_02](./images/04/aria_02.jpg)
+![aria_01](./images/04/aria_01.JPG)
+![aria_02](./images/04/aria_02.JPG)
 
 
 ### 지훈님
@@ -30,8 +30,8 @@
     * 힌트를 무시하는 경향이 있는 것 같다.
 * 논리 연산 짱짱맨인듯
 
-![jazz_01](./images/04/jazz_01.jpg)
-![jazz_02](./images/04/jazz_02.jpg)
+![jazz_01](./images/04/jazz_01.JPG)
+![jazz_02](./images/04/jazz_02.JPG)
 
 
 ### 경훈님
@@ -54,5 +54,5 @@
 * 재귀적인 로직을 설명할때 메모리 구조(heap, stack)을 함께 그려서 설명하면 좋은 것 같다.
 * 작성된 로직을 보다 효율적으로 설명할 수 있는 방법들을 생각해보자.
 
-![gw_01](./images/04/gw_01.jpg)
-![gw_02](./images/04/gw_02.jpg)
+![gw_01](./images/04/gw_01.JPG)
+![gw_02](./images/04/gw_02.JPG)
