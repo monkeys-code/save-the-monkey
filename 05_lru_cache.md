@@ -6,7 +6,6 @@
 https://leetcode.com/problems/lru-cache/
 
 ## 원숭이들의 회고
-![jh](images/05/jh.jpeg)
 ### 지훈스
 
 ![jh](images/05/jh.jpeg)
@@ -27,7 +26,7 @@ https://leetcode.com/problems/lru-cache/
 * heap 자료구조가 잘기억이 나지 않는다. 다시한번 공부해보자. 많이 사용되는 자료구조를 C언어 외에 다른 언어로 다시 구현해보자.
 
 ### 경훈스
-![gh](images/05/gh.jpeg)
+![gh](images/05/kh.jpeg)
 * 알고리즘 컨셉잡기 : LinkedList 를 이용한 Data ordering 컨셉을 잘 잡았다. 문제에서 추가조건이였던 O(1) 을 만족하지는 못하였지만, iterable 하게 풀어내었다. O(n)
 * 코딩 : if else 케이스를 처음에 확실하게 생각하지 못한상태로 코딩하니 코드블락이 중구난방이 되었다. if-else concept을 먼저 확실히 생각하고 손코딩하자.
 * 총평 : 
