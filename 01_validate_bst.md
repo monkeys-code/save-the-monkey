@@ -166,7 +166,7 @@ public class BST_Validate {
 * 리팩토링 할 중복로직이 안나오도록 연습하자.
     - but 모든코드를 극단적으로 줄일려고 하지는 말자
 
-
+* [최종 solved code](https://github.com/penpen787/algo_master/commit/d7fdf26c06b59e8360d30c92b8053872e2c5ec78#diff-41193576085bbe743c59b53e069fcb22)
 
 ### 아리님
 
