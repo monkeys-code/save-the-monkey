@@ -32,8 +32,8 @@
 이번에는 서로 다른 문제를 풀어보기 위해 문제를 3개 골랐음.
 문제 고르고 먼저 풀어보는 공수가 있지만, 나쁘지 않은 시도였다고 생각
 
-![img](images/06/0601.jpeg)
-![img](images/06/0602.jpeg)
-![img](images/06/0603.jpeg)
-![img](images/06/0604.jpeg)
-![img](images/06/0605.jpeg)
+![img](images/06/0601.jpg)
+![img](images/06/0602.jpg)
+![img](images/06/0603.jpg)
+![img](images/06/0604.jpg)
+![img](images/06/0605.jpg)
