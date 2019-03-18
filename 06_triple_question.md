@@ -21,6 +21,9 @@
 * 그걸 토대로 모듈화를 시도해보자.
 * 엣지 케이스를 반드시 고려하자.
 
+![img](images/06/0604.jpg)
+![img](images/06/0605.jpg)
+
 
 ### 경원님
 푼 문제: [문제 이름이 뭔지 모름, 뭐라고 불러야 할지도 모름(지훈형이 잘 알 것이다)](https://leetcode.com/problems/decode-string/)
@@ -35,5 +38,3 @@
 ![img](images/06/0601.jpg)
 ![img](images/06/0602.jpg)
 ![img](images/06/0603.jpg)
-![img](images/06/0604.jpg)
-![img](images/06/0605.jpg)
